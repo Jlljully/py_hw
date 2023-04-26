@@ -59,15 +59,11 @@ for result in result_os.split('\n'):
 
 ### Ваш скрипт:
 
-```python
-???
-```
+![скрин](https://github.com/Jlljully/py_hw/blob/main/Screenshot_9.png)
 
 ### Вывод скрипта при запуске во время тестирования:
 
-```
-???
-```
+![скрин](https://github.com/Jlljully/py_hw/blob/main/Screenshot_8.png)
 
 ------
 
